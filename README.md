@@ -1,6 +1,6 @@
-## Social-media-app
+# Social-media-app
 Reposity for social media application project
 
-# Instillation & Pre-Req
+## Instillation & Pre-Req
 
 N/A
