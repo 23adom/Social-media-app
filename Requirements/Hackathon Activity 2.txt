@@ -1,9 +1,0 @@
-Hackathon Project Wrap-up
-
-- connections between fidelity pages to be improved such as the upload page
-
-- page that shows available videos to upload from camera roll
-
-- colour scheme can be improved, singularity in colour could increase popularity
-
-- include thumbnail page that shows snippet of video and title etc.
